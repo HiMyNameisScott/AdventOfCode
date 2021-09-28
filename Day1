@@ -32,3 +32,4 @@ function Check(input1, input2) {
 }};
 
 Check(thearray, thearray)
+//This will check which 2 #s add to 2020
